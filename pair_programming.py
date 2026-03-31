@@ -1,5 +1,5 @@
 def mericaToMetric():
-    feetString = input("How many feet? Do not enter units.  -3")
+    feetString = input("How many feet? Do not enter units.  ")
     inchString = input("How many inches? Do not enter units.    ")
     feet = float(feetString)
     inches = float(inchString)
